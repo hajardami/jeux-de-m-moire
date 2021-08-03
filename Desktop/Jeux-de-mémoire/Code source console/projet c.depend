@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1612962650 source:c:\users\dell\desktop\projet_c-dami_hajar-daoudi_khadija\code source console\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1612962722 c:\users\dell\desktop\projet_c-dami_hajar-daoudi_khadija\code source console\fonctions.h
+
+1612890844 source:c:\users\dell\desktop\projet_c-dami_hajar-daoudi_khadija\code source console\main.c
+	"fonctions.h"
+
+1612960002 source:c:\users\home\onedrive\bureau\projet_c-dami_hajar-daoudi_khadija\code source console\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1612959524 c:\users\home\onedrive\bureau\projet_c-dami_hajar-daoudi_khadija\code source console\fonctions.h
+
+1612959525 source:c:\users\home\onedrive\bureau\projet_c-dami_hajar-daoudi_khadija\code source console\main.c
+	"fonctions.h"
+

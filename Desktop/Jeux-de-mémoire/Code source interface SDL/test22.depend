@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1612895779 source:c:\users\home\onedrive\bureau\tp sd\test22\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<time.h>
+	<windows.h>
+
+1610806653 c:\users\home\onedrive\bureau\tp sd\test22\jouer.h
+
+1612899857 source:c:\users\home\onedrive\bureau\tp sd\prrojetcsdl\main.c
+	"fonction.h"
+
+1612904707 c:\users\home\onedrive\bureau\tp sd\prrojetcsdl\fonction.h
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<time.h>
+	<windows.h>
+
+1612906618 source:c:\users\home\onedrive\bureau\tp sd\prrojetcsdl\fonction.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<time.h>
+	<windows.h>
+	"fonction.h"
+

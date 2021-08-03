@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1612896210 source:c:\users\dell\desktop\projet cc\main.c
+	"fonctions.h"
+
+1612909621 c:\users\dell\desktop\projet cc\fonctions.h
+
+1612902536 source:c:\users\dell\desktop\projet cc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1612919642 source:c:\users\home\onedrive\bureau\projetfinal\projet cc\main.c
+	"fonctions.h"
+
+1612919642 c:\users\home\onedrive\bureau\projetfinal\projet cc\fonctions.h
+
+1612919802 source:c:\users\home\onedrive\bureau\projetfinal\projet cc\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1612919802 source:c:\users\home\onedrive\bureau\projetfinal\projetc cosnole\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+
+1612919642 c:\users\home\onedrive\bureau\projetfinal\projetc cosnole\fonctions.h
+
+1612919642 source:c:\users\home\onedrive\bureau\projetfinal\projetc cosnole\main.c
+	"fonctions.h"
+
+1612919642 source:c:\users\home\onedrive\bureau\projetfinal\projetc_console\main.c
+	"fonctions.h"
+
+1612919642 c:\users\home\onedrive\bureau\projetfinal\projetc_console\fonctions.h
+
+1612923244 source:c:\users\dell\desktop\projetc_console\main.c
+	"fonctions.h"
+
+1612923244 c:\users\dell\desktop\projetc_console\fonctions.h
+
+1612926865 source:c:\users\dell\desktop\projetc_console\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"fonctions.h"
+

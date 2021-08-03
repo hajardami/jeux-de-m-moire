@@ -1,0 +1,18 @@
+[UN JOUEUR_NIVEAU FACIL] Name: khadija 	SCORE: 2
+
+
+[UN JOUEUR_NIVEAU FACIL] Name: khadija 	SCORE: 2
+
+
+[MULTIJOUEUR_NIVEAU FACILE]:    Name: haja 	SCORE: 2
+
+
+[MULTIJOUEUR_NIVEAU FACILE]:    Name: khad 	SCORE: 0
+
+
+[MULTIJOUEUR_NIVEAU FACILE]:    Name: haja 	SCORE: 1
+
+
+[MULTIJOUEUR_NIVEAU FACILE]:    Name: yass 	SCORE: 0
+
+
